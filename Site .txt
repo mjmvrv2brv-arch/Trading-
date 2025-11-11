@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Signaux Trading Pro</title>
+<style>
+body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 0; }
+.container { max-width: 800px; margin: 50px auto; background: #fff; padding: 30px; border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.1); }
+h1, h2 { color: #333; }
+ul { line-height: 1.6; }
+.tier { border: 1px solid #ccc; border-radius: 8px; padding: 20px; margin: 20px 0; background: #fafafa; }
+.button { display: inline-block; background: #28a745; color: #fff; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px; }
+.button:hover { background: #218838; }
+.disclaimer { font-size: 12px; color: #666; margin-top: 20px; }
+.testimonial { background: #eee; padding: 10px; margin: 10px 0; border-radius: 5px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Signaux Trading Pro</h1>
+  <p>Choisis ton plan et commence à recevoir des signaux fiables pour tes trades :</p>
+
+  <!-- Tiers -->
+  <div class="tier">
+    <h2>Basic</h2>
+    <ul>
+      <li>1 signal/jour</li>
+      <li>Accès aux backtests basiques</li>
+      <li>Support standard</li>
+    </ul>
+    <a class="button" href="LIEN_BASIC">Essai 7 jours gratuit</a>
+  </div>
+
+  <div class="tier">
+    <h2>Pro</h2>
+    <ul>
+      <li>3–5 signaux/jour</li>
+      <li>Accès complet aux backtests</li>
+      <li>Support VIP</li>
+      <li>Alertes instantanées sur mobile</li>
+    </ul>
+    <a class="button" href="LIEN_PRO">Essai 7 jours gratuit</a>
+  </div>
+
+  <div class="tier">
+    <h2>VIP</h2>
+    <ul>
+      <li>Signaux illimités</li>
+      <li>Coaching individuel</li>
+      <li>Analyse personnalisée de ton portefeuille</li>
+      <li>Support 24/7</li>
+    </ul>
+    <a class="button" href="LIEN_VIP">Essai 7 jours gratuit</a>
+  </div>
+
+  <!-- Témoignages -->
+  <h2>Témoignages</h2>
+  <div class="testimonial">"Grâce aux signaux Pro, j'ai amélioré mes résultats en crypto !" - Alice</div>
+  <div class="testimonial">"Simple et clair, parfait pour suivre le marché." - Bob</div>
+  <div class="testimonial">"Le coaching VIP m'a vraiment aidé à mieux gérer mon capital." - Carlos</div>
+
+  <!-- Disclaimer -->
+  <p class="disclaimer">
+    Les signaux fournis sont uniquement informatifs et ne constituent pas un conseil financier personnalisé. Trader comporte un risque de perte substantiel. Investissez uniquement ce que vous pouvez vous permettre de perdre.
+  </p>
+</div>
+</body>
+</html>
